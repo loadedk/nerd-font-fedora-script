@@ -88,5 +88,6 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 **Enjoy your beautiful terminal!**
-```
-Tested with Fedora 41 Workstation. Should work with any linux that uses ~/.local/share/fonts or change that directory to suit your needs.
+
+
+## Tested with Fedora 41 Workstation. Should work with any linux that uses ~/.local/share/fonts or change that directory to suit your needs.
