@@ -28,7 +28,7 @@ Make sure the following tools are installed:
 
 ```bash
 sudo dnf install git fontconfig
-'''
+```
 
 🚀 Installation
 
